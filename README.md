@@ -16,7 +16,7 @@ Este proyecto implementa un sistema para la gestión de eventos culturales utili
 - **Estadísticas y Exportación**:
   - Generación de estadísticas en **formato texto** o **JSON**
   - Exportación de eventos a **archivo CSV**
-- **(Bonus)** Interfaz gráfica usando JavaFX (si se implementó)
+- **(Bonus)** Interfaz gráfica usando JavaFX
 
 ---
 
@@ -46,7 +46,7 @@ src/
 - [x] **Serialización** (`ObjectOutputStream`, `ObjectInputStream`)
 - [x] **Manejo de Archivos** (`BufferedReader`, `BufferedWriter`)
 - [x] **Conversión a JSON** (con `Gson`)
-- [x] **JavaFX (opcional)**
+- [x] **JavaFX**
 
 ---
 
@@ -61,7 +61,7 @@ src/
 
 ## 📸 UML
 
-El modelado UML del sistema se encuentra incluido como imagen en el repositorio.
+El modelado UML del sistema se encuentra incluido como PDF en el repositorio.
 
 ---
 
