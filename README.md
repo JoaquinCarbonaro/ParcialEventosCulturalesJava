@@ -25,9 +25,12 @@ Este proyecto implementa un sistema para la gestión de eventos culturales utili
 El código está organizado en los siguientes paquetes:
 
 src/
-├── com.cultura.eventos       → Clases base y derivadas de eventos (como Evento, Concierto, etc.)
-├── com.cultura.gestores      → Clases encargadas de gestionar los eventos (alta, baja, filtros, etc.)
-└── com.cultura.excepciones   → Excepciones personalizadas para manejar errores específicos
+
+├── com.cultura.eventos → Clases base y derivadas de eventos (como Evento, Concierto, etc.)
+
+├── com.cultura.gestores → Clases encargadas de gestionar los eventos (alta, baja, filtros, etc.)
+
+└── com.cultura.excepciones → Excepciones personalizadas para manejar errores específicos
 
 ---
 
